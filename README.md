@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://amol192002.github.io/Amol-s-Portfolio/](https://amol192002.github.io/Amol-s-Portfolio/)
 
-- 💬 Ask me about **Html,Css.JavaScript,React.js**
+- 💬 Ask me about **Html,Css.JavaScript,React.js,Java**
 
 - 📫 How to reach me **amolpatil120029@gmail.com**
 
