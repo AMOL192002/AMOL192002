@@ -18,7 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/amol-patil-010a90224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amol patil" height="30" width="40" /></a>
+  <br></br>
 <a href="https://www.leetcode.com/amol_patil96" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amol_patil96" height="30" width="40" /></a>
+  <br></br>
 <a href="https://auth.geeksforgeeks.org/user/amolpatiozps/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="(<amolpatiozps>)" height="30" width="40" /></a>
 </p>
 
